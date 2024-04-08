@@ -1,0 +1,8 @@
+ul li:hover #B_delete{
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+#B_delete{
+    opacity: 0;
+}
